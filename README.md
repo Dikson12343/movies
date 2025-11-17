@@ -3,9 +3,8 @@
 A React app showcasing my favorite movies built with Vite.
 
 ## Links
-- **GitHub Repository:** https://github.com/mohammedshaheelk/favorite-movie.git
-- **Live Website:** https://candid-lolly-e4ad8d.netlify.app/
-
+- **GitHub Repository:** 
+- **Live Website:** 
 ## Run Locally
 1. Clone the repository:
    `git clone https://github.com/your-username/favorite-movies.git`
@@ -19,3 +18,9 @@ A React app showcasing my favorite movies built with Vite.
 
 ## Notes
 - Remove `node_modules` before zipping for submission.
+
+
+
+
+
+
