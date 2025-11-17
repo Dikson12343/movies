@@ -3,8 +3,8 @@
 A React app showcasing my favorite movies built with Vite.
 
 ## Links
-- **GitHub Repository:** https://github.com/your-username/favorite-movies
-- **Live Website:** https://favorite-movies-...vercel.app
+- **GitHub Repository:** https://github.com/mohammedshaheelk/favorite-movie.git
+- **Live Website:** https://candid-lolly-e4ad8d.netlify.app/
 
 ## Run Locally
 1. Clone the repository:
